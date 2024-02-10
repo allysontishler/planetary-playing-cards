@@ -2,6 +2,7 @@
     --header-color: #4c9f70;
     --text-color: #0d1f22;
     --text-size: 20px;
+    --header-size: 40px;
 }
 
 body {
@@ -43,13 +44,6 @@ main {
     grid-column: 1 / 2;
     grid-row: 1 / 5;
     height: 570px;
-    text-align: center;
-}
-
-.module.one p {
-    text-align: center;
-    color: var(--text-color);
-    margin-top: 10px;
 }
 
 .module::before {
@@ -60,7 +54,7 @@ main {
     transform: translate(-50%, -50%);
     width: 80px;
     height: 80px;
-    background: #847577;
+    background: #ffffff;
     border-radius: 50%;
     margin-bottom: 20px;
 }
@@ -68,4 +62,24 @@ main {
 .module.one::before {
     width: 200px;
     height: 200px;
+    color: rgba(253,184,19,0.7);
+}
+
+.module {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-weight: bold;
+    font-size: var(--header-size);
+    color: var(--header-color);
+}
+
+.sub {
+    font-size: var(--text-size);
+    color: var(--text-color);
 }
