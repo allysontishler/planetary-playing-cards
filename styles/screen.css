@@ -62,7 +62,7 @@ main {
 .module.one::before {
     width: 200px;
     height: 200px;
-    color: rgba(253,184,19,0.7);
+    background: rgba(253,184,19,0.7);
 }
 
 .module {
