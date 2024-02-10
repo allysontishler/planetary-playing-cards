@@ -67,6 +67,10 @@ main {
     margin-bottom: 50px;
 }
 
+.module.one .content {
+    margin-top: 20px;
+}
+
 .module {
     text-align: center;
 }
