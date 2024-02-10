@@ -33,12 +33,17 @@ main {
     border-radius: 15px;
     position: relative;
     overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .module.one {
     grid-column: 1 / 2;
     grid-row: 1 / 5;
     height: 570px;
+    text-align: center;
 }
 
 .module::before {
