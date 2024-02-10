@@ -77,7 +77,7 @@ main {
 }
 
 .module.two .content {
-    margin-top: 130px;
+    margin-top: 150px;
 }
 
 .module.three::before {
@@ -87,7 +87,7 @@ main {
 }
 
 .module.three .content {
-    margin-top: 40px;
+    margin-top: 150px;
 }
 
 .module.four::before {
@@ -97,7 +97,7 @@ main {
 }
 
 .module.four .content {
-    margin-top: 40px;
+    margin-top: 150px;
 }
 
 .module.five::before {
@@ -107,27 +107,29 @@ main {
 }
 
 .module.five .content {
-    margin-top: 40px;
+    margin-top: 150px;
 }
 
 .module.six::before {
     width: 184px;
     height: 184px;
     background: rgb(189,118,87,1);
+    margin-top: 40px;
 }
 
 .module.six .content {
-    margin-top: 40px;
+    margin-top: 150px;
 }
 
 .module.seven::before {
     width: 161px;
     height: 161px;
     background: rgb(252,238,173,1);
+    margin-top: 20px;
 }
 
 .module.seven .content {
-    margin-top: 40px;
+    margin-top: 150px;
 }
 
 .module.eight::before {
@@ -137,7 +139,7 @@ main {
 }
 
 .module.eight .content {
-    margin-top: 40px;
+    margin-top: 150px;
 }
 
 .module.nine::before {
@@ -147,7 +149,7 @@ main {
 }
 
 .module.nine .content {
-    margin-top: 40px;
+    margin-top: 150px;
 }
 
 .module {
