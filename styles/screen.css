@@ -114,7 +114,7 @@ main {
     width: 184px;
     height: 184px;
     background: rgb(189,118,87,1);
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .module.six .content {
@@ -125,7 +125,7 @@ main {
     width: 161px;
     height: 161px;
     background: rgb(252,238,173,1);
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 .module.seven .content {
