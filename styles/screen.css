@@ -23,6 +23,7 @@ main {
     grid-auto-rows: 100px;
     gap: 20px 40px;
     background: #cad5ca;
+    margin-left: 20px;
 }
 
 .modules {
