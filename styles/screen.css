@@ -63,7 +63,7 @@ main {
 .module.one::before {
     width: 200px;
     height: 200px;
-    background: rgb(253,184,19);
+    background: rgba(253,184,19,1);
 }
 
 .module.one .content {
@@ -73,7 +73,7 @@ main {
 .module.two::before {
     width: 23px;
     height: 23px;
-    background: rgba(173,168,165,0.7);
+    background: rgba(173,168,165,1);
 }
 
 .module.two .content {
@@ -93,7 +93,7 @@ main {
 .module.four::before {
     width: 92px;
     height: 92px;
-    background: rgba(159,193,100,0.9);
+    background: rgba(159,193,100,1);
 }
 
 .module.four .content {
@@ -113,7 +113,7 @@ main {
 .module.six::before {
     width: 184px;
     height: 184px;
-    background: rgb(189,118,87,0.9);
+    background: rgb(189,118,87,1);
 }
 
 .module.six .content {
@@ -133,7 +133,7 @@ main {
 .module.eight::before {
     width: 138px;
     height: 138px;
-    background: rgb(46,132,206,0.8);
+    background: rgb(46,132,206,1);
 }
 
 .module.eight .content {
@@ -143,7 +143,7 @@ main {
 .module.nine::before {
     width: 115px;
     height: 115px;
-    background: rgb(31,34,85,0.8);
+    background: rgb(31,34,85,1);
 }
 
 .module.nine .content {
