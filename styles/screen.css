@@ -75,6 +75,7 @@ main {
     width: 23px;
     height: 23px;
     background: rgba(173,168,165,1);
+    margin-top: 40px;
 }
 
 .module.two .content {
