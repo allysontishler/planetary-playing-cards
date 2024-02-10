@@ -177,3 +177,7 @@ main {
     font-size: var(--text-size);
     color: var(--text-color);
 }
+
+.module:hover {
+    box-shadow: 0 0 10px rgba(76,159,112,0.3)
+}
