@@ -70,6 +70,86 @@ main {
     margin-top: 40px;
 }
 
+.module.two::before {
+    width: 23px;
+    height: 23px;
+    background: rgba(173,168,165,0.7);
+}
+
+.module.two .content {
+    margin-top: 40px;
+}
+
+.module.three::before {
+    width: 69px;
+    height: 69px;
+    background: rgba(227,187,118,1);
+}
+
+.module.three .content {
+    margin-top: 40px;
+}
+
+.module.four::before {
+    width: 92px;
+    height: 92px;
+    background: rgba(159,193,100,0.9);
+}
+
+.module.four .content {
+    margin-top: 40px;
+}
+
+.module.five::before {
+    width: 46px;
+    height: 46px;
+    background: rgb(193,68,14,1);
+}
+
+.module.five .content {
+    margin-top: 40px;
+}
+
+.module.six::before {
+    width: 184px;
+    height: 184px;
+    background: rgb(189,118,87,0.9);
+}
+
+.module.six .content {
+    margin-top: 40px;
+}
+
+.module.seven::before {
+    width: 161px;
+    height: 161px;
+    background: rgb(252,238,173,1);
+}
+
+.module.seven .content {
+    margin-top: 40px;
+}
+
+.module.eight::before {
+    width: 138px;
+    height: 138px;
+    background: rgb(46,132,206,0.8);
+}
+
+.module.eight .content {
+    margin-top: 40px;
+}
+
+.module.nine::before {
+    width: 115px;
+    height: 115px;
+    background: rgb(31,34,85,0.8);
+}
+
+.module.nine .content {
+    margin-top: 40px;
+}
+
 .module {
     text-align: center;
 }
