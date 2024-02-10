@@ -22,12 +22,12 @@ main {
     grid-template-columns: repeat(5, 1fr);
     grid-auto-rows: 100px;
     gap: 20px 40px;
-    background: #f8f0fb;
+    background: #cad5ca;
     margin-left: 20px;
 }
 
 .modules {
-    background: #cad5ca;
+    background: #f8f0fb;
 }
 
 .module.one {
