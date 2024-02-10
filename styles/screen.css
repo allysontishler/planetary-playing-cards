@@ -68,7 +68,7 @@ main {
 }
 
 .module.one .content {
-    margin-top: 150px;
+    margin-top: 300px;
 }
 
 .module.two::before {
