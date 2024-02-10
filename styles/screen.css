@@ -64,11 +64,10 @@ main {
     width: 200px;
     height: 200px;
     background: rgb(253,184,19);
-    margin-bottom: 50px;
 }
 
 .module.one .content {
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .module {
