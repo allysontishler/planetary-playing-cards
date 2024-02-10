@@ -37,7 +37,7 @@ main {
 .module.one {
     grid-column: 1 / 2;
     grid-row: 1 / 5;
-    height: 650px;
+    height: 675px;
 }
 
 .module::before {
