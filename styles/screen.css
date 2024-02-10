@@ -86,6 +86,7 @@ main {
     width: 69px;
     height: 69px;
     background: rgba(227,187,118,1);
+    margin-top: 20px
 }
 
 .module.three .content {
@@ -96,6 +97,7 @@ main {
     width: 92px;
     height: 92px;
     background: rgba(159,193,100,1);
+    margin-top: 20px;
 }
 
 .module.four .content {
@@ -106,6 +108,7 @@ main {
     width: 46px;
     height: 46px;
     background: rgb(193,68,14,1);
+    margin-top: 20px;
 }
 
 .module.five .content {
@@ -138,6 +141,7 @@ main {
     width: 138px;
     height: 138px;
     background: rgb(46,132,206,1);
+    margin-top: 15px;
 }
 
 .module.eight .content {
@@ -148,6 +152,7 @@ main {
     width: 115px;
     height: 115px;
     background: rgb(31,34,85,1);
+    margin-top: 15px;
 }
 
 .module.nine .content {
