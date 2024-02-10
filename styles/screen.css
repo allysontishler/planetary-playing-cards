@@ -38,7 +38,7 @@ main {
 .module.one {
     grid-column: 1 / 2;
     grid-row: 1 / 5;
-    height: 575px;
+    height: 570px;
 }
 
 .module::before {
@@ -54,6 +54,6 @@ main {
 }
 
 .module.one::before {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
